@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Desktop\step\PlatonSolution\Platon\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+Source.obj : error LNK2005: main уже определен в main.obj
+D:\Desktop\step\PlatonSolution\x64\Debug\Platon.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
